@@ -16,8 +16,4 @@ of the moving parts.
 - Handoffs as the place multi-agent systems quietly fall apart
 - Why the demo worked and the real thing didn't
 
-**Off the clock:** a home server running more self-hosted services than
-strictly necessary. Good practice for the parts of this job that aren't
-the model.
-
 Penn State CS '26
