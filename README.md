@@ -1,4 +1,4 @@
-## Building agent systems, mostly to find out where they break.
+## Samuel Adams
 
 AI Engineer shipping LLM features into a non-tech industry — which mostly
 means production constraints, messy real-world inputs, and users who
@@ -20,5 +20,4 @@ of the moving parts.
 strictly necessary. Good practice for the parts of this job that aren't
 the model.
 
-Penn State CS '25. Always up for talking agents, evals, or production
-LLM postmortems.
+Penn State CS '26
