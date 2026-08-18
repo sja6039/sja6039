@@ -11,9 +11,4 @@ of the moving parts.
 
 **Working with:** Python · TypeScript / JavaScript · Databricks · Azure
 
-**Currently chewing on**
-- Evals that catch the failures you didn't think to write a test for
-- Handoffs as the place multi-agent systems quietly fall apart
-- Why the demo worked and the real thing didn't
-
 Penn State CS '26
