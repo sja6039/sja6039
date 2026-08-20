@@ -1,13 +1,8 @@
 ## Samuel Adams
 
-AI Engineer shipping LLM features into a non-tech industry — which mostly
-means production constraints, messy real-world inputs, and users who
-don't care that it demoed well.
+AI engineer. I build LLM features for an industry that isn't tech, so most of my time goes to production constraints, messy inputs, and users who don't care that it worked in the demo.
 
-Multi-model work: handoffs, models checking each other, deciding who
-does what. The interesting question is usually when that actually helps,
-and when a single well-prompted model would've done the job with a tenth
-of the moving parts.
+Lately I've been doing multi-model work: handoffs, models checking each other, deciding who does what. Mostly I'm trying to work out when that's worth the moving parts and when one good prompt would have done it.
 
 **Working with:** Python · TypeScript / JavaScript · Databricks · Azure
 
